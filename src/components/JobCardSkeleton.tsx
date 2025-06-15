@@ -1,5 +1,4 @@
 
-// Single Job Card Skeleton
 export const JobCardSkeleton = () => {
   return (
     <div className="border rounded-md p-4 mb-4 bg-white shadow-sm animate-pulse">
