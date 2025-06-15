@@ -516,7 +516,7 @@ const DashBoard = () => {
                 {(!jobsToDisplay || jobsToDisplay.length === 0) && (
                   <tr>
                     <td colSpan={5} className="py-6 text-center text-gray-500">
-                      No job applications found
+                      No jobs  found
                     </td>
                   </tr>
                 )}
